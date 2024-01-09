@@ -1,5 +1,5 @@
 - Hi, I’m @SURYA C.R.
-- I’m currently 2nd year Computer science and Engineering
+- I’m currently 2nd year Computer science and Engineering student.
 - I’m currently learning c++,fullstack web development.
   
 
