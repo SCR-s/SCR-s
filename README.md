@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SURYA C.R.
-- 👀 I’m interested in nothing😎
-- 🌱 I’m currently learning c++,fullstack web development.
+- Hi, I’m @SURYA C.R.
+- I’m currently 2nd year Computer science and Engineering
+- I’m currently learning c++,fullstack web development.
   
 
 <!---
